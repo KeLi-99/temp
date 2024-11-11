@@ -22,12 +22,12 @@ Our QAG-360K dataset: [Remove to avoid violating double-blind]()
 ## 🌈 Results
 QAG-360K
 <p align="middle">
-  <img src="fig/results1">
+  <img src="fig/results1.png">
 </p>
 
 CDVQA
 <p align="middle">
-  <img src="fig/results2">
+  <img src="fig/results2.png">
 </p>
 
 ## 🙏 Acknowledgement

@@ -1,0 +1,39 @@
+{
+    "question": [
+        {
+            "id": 0,
+            "img_id": "00012.png",
+            "type": "change_from_what",
+            "question": "What has the non-vegetated ground surface mainly turned from in the post-event image?",
+            "answer": "buildings"
+        },
+        {
+            "id": 1,
+            "img_id": "00012.png",
+            "type": "change_from_what",
+            "question": "What have the regions of trees mainly changed from in the post-event image?",
+            "answer": "low_vegetation"
+        },
+        {
+            "id": 2,
+            "img_id": "00012.png",
+            "type": "change_from_what",
+            "question": "What has the buildings mainly turned from in the second image?",
+            "answer": "buildings"
+        },
+        {
+            "id": 3,
+            "img_id": "00012.png",
+            "type": "change_to_what",
+            "question": "What has the non-vegetated ground surface mostly become in the pre-change image?",
+            "answer": "trees"
+        },
+        {
+            "id": 4,
+            "img_id": "00012.png",
+            "type": "change_to_what",
+            "question": "What have the regions of low vegetation mainly changed to in the pre-event image?",
+            "answer": "trees"
+        }
+    ]
+}
